@@ -1,1 +1,1 @@
-Fix heatmaps width-height order bug (#7184)
+OBB: Fix when training on zip data (#8680)
