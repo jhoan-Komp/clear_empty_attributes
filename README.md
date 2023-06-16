@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
