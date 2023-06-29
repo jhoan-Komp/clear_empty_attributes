@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Optimize function calls to method calls (#8507)
