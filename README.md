@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Add missing single-line docstrings (#8362)
