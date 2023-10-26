@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
