@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Move Explorer tests to scheduled CI (#8305)
